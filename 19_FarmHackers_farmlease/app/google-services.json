@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520831155757",
+    "project_id": "farmlease-638cf",
+    "storage_bucket": "farmlease-638cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520831155757:android:e471bfda2b6dc6d12ec2a4",
+        "android_client_info": {
+          "package_name": "com.example.farmlease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520831155757-b4paoia9o8hkakmb89o6qitnnoph5v8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJcGdyENdQ8A2yNrV74X6kslUwixbXY00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520831155757-b4paoia9o8hkakmb89o6qitnnoph5v8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
