@@ -18,9 +18,6 @@ FarmingApp is an Android application built with Jetpack Compose that provides a 
 
 - **Cool Storage Rentals**: Users can rent cool storage facilities for a specified period, ensuring the safe storage of perishable agricultural products.
 
-## Screenshots
-
-(Insert screenshots here)
 
 ## Usage
 
